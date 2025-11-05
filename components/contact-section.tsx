@@ -40,7 +40,7 @@ export function ContactSection() {
             <p className="text-primary font-semibold text-sm">GET IN TOUCH</p>
             <h2 className="text-4xl sm:text-5xl font-bold">Let's Work Together</h2>
             <p className="text-foreground/80 text-lg max-w-2xl mx-auto">
-              Have a project in mind? I'd love to hear about it. Send me a message and I'll get back to you as soon as
+              Have a project in mind? I'd love to hear about it. Send we a message and I'll get back to you as soon as
               possible.
             </p>
           </div>
@@ -96,7 +96,7 @@ export function ContactSection() {
                 required
                 rows={6}
                 className="w-full px-4 py-3 bg-background border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent resize-none"
-                placeholder="Tell me about your project..."
+                placeholder="Tell we about your project..."
               />
             </div>
 
